@@ -6,7 +6,7 @@
 ## 🚀 Project Overview
 
 SentinelAI is a web-based analytics platform that detects suspicious login behavior and identity theft using behavioral anomaly detection.  
-It empowers organizations to identify high-risk login events before damage occurs by analyzing patterns in login metadata such as location, device, time, and frequency. :contentReference[oaicite:1]{index=1}
+It empowers organizations to identify high-risk login events before damage occurs by analyzing patterns in login metadata such as location, device, time, and frequency.
 
 This repository contains the frontend dashboard built in **React, TypeScript, and Vite** with visualizations, anomaly alerts, and risk scoring.
 
