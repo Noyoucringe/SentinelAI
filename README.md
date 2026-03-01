@@ -59,7 +59,7 @@ Optional but recommended:
 
 Aliases supported:
 - `user`, `username` → `userId`  
-- `time`, `datetime` → `timestamp` :contentReference[oaicite:3]{index=3}
+- `time`, `datetime` → `timestamp` 
 
 ---
 
@@ -70,7 +70,7 @@ Aliases supported:
 - **Routing:** React Router  
 - **CSV Parsing:** PapaParse  
 - **Theme:** Dark cybersecurity style  
-- **Build Tool:** Vite :contentReference[oaicite:4]{index=4}
+- **Build Tool:** Vite 
 
 ---
 
