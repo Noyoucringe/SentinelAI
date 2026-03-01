@@ -41,7 +41,7 @@ Each login attempt is scored using weighted anomaly signals such as:
 Thresholds:
 - **Low Risk:** < 45  
 - **Medium Risk:** 45–69  
-- **High Risk:** ≥ 70 :contentReference[oaicite:2]{index=2}
+- **High Risk:** ≥ 70
 
 ---
 
